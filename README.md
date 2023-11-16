@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ganesh-f1/ganesh-f1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +15,10 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Venkata Ganesh Yadavalli </h1>
 
-  I am **Venkata Ganesh Yadavalli**, I'm an Masters student in computer applications at Jagarlamudi Kuppuswamy Chowdary College, Guntur. I love working on projects which tackle real world problems. Some technologies I enjoy working with include C, Python, CSS, HTML, Javascript, SQL and etc.
+  I am **Venkata Ganesh Yadavalli**, I'm an Masters student in computer applications at Jagarlamudi Kuppuswamy Chowdary College, Guntur. I love working on projects which tackle real world problems. Some technologies I enjoy working with include C, Python, Java, CSS, HTML, Javascript, SQL, DBMS and etc.
 
 * 🌱 I’m currently  brushing up my **Data Structures and Algorithms** fundamentals and focusing on improving my **Competitive Programming** skills.
-* 📫**How to reach me:** Drop a mail at 
+* 📫**How to reach me:** Drop a mail at "ganeshyadavalli9@gmail.com"
 * 😄**Pronouns:** he/him
 *  ⚡ **Fun fact:**  *Human beings can use only a small fraction of Earth's water*. In school, we were taught that most (specifically, 71 percent) of the planet's surface is covered in water. While that's true, humans can use only 0.007 percent of that water, according to National Geographic.
 
